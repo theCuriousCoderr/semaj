@@ -24,7 +24,7 @@ function App() {
               className="size-full object-contain object-center"
             />
           </div>
-          <div className="flex gap-5">
+          <div className="flex items-start gap-5">
             <Level100 />
             <button onClick={() => alert("200 level Materials not yet available")} className="text-slate-600">200L</button>
             <button onClick={() => alert("300 level Materials not yet available")} className="text-slate-600">300L</button>

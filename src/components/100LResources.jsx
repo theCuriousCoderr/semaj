@@ -2,7 +2,7 @@ export default function Level100() {
   return (
     <button className="group focus:text-green-500">
       <h2 className="text-slate-200">100L</h2>
-      <div className="hidden group-focus-within:block">
+      <div className=" group-focus-within:block space-y-2 mt-2">
         <a
           target="_blank"
           href="https://drive.google.com/drive/folders/1hTYsni4Bz48GV2qWcE7jXESuLvVcXPSx"
